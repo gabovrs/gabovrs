@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I'm currently working on projects related to FiveM.
+- 🌱 I'm currently learning **React, Next.js and TypeScript**.
+- 📫 How to reach me: Discord [@gabovrs](https://discord.com/users/543516877754728448)
+
 <!--
 **gabovrs/gabovrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
